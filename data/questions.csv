@@ -1,3 +1,35 @@
-id,question,alternatives,letter
-1,Papa Roeu,A) RATO\nB) CC\nD) DD,F
-2,ASDASD SADSA,A) aba\nB) csdagf\nC) fsadqwd1\nD) sadasdasdsa\n,D
+id,question,alternatives,letter
+
+1,Quanto tempo a luz do Sol demora para chegar a Terra?,A)12 minutos\nB)1 dia\nC)12 horas\nD)8 minutos,D
+
+2,Qual a nacionalidade de Che Guevara?,A)Cubana \nB)Peruana \nC)Panamenha \nD)Argentina,D
+
+3,Quem e o autor de O Principe?,A) Maquiavel\nB) Antoine de Saint-Exupery\nC) Montesquieu\nD) Thomas Hobbes\n,A
+
+4,Qual a altura da rede de volei nos jogos masculino e feminino?,A)2.4 para ambos \nB)2.43 m e 2.24 m \nC)2.5 m e 2.0 m \nD)2.45 m e 2.15 m,B
+
+5,Normalmente quantos litros de sangue uma pessoa tem? Em media quantos sao retirados numa doacao de sangue?,A)Tem entre 2 a 4 litros. São retirados 450 mililitros \nB)Tem entre 4 a 6 litros. São retirados 450 mililitros \nC)Tem 10 litros. São retirados 2 litros \nD)Tem 7 litros. São retirados 1.5 litros,B
+
+6,De quem e a famosa frase: Penso logo existo?,A)Platao \nB)Galileu Galilei \nC)Descartes \nD)Socrates,C
+
+7,De onde e a invencao do chuveiro eletrico?,A)Franca \nB)Inglaterra \nC)Brasil \nD)Australia,C
+
+8,Qual o nome do presidente do Brasil que ficou conhecido como Jango?,A)Janio Quadros \nB) Jacinto Anjos \nC)Getulio Vargas \nD)Joao Goulart,D
+
+9,Qual o livro mais vendido no mundo a seguir a Biblia?,A)O Senhor dos Aneis \nB)Dom Quixote \nC)O Pequeno Principe \nD)Ela. A Feiticeira,B
+
+10,Quantas casas decimais tem o numero pi?,A)Duas \nB)Centenas \nC)Infinitas \nD)Vinte,C
+
+11,Quais os paises que tem a maior e a menor expectativa de vida do mundo?,A)Japao e Serra Leoa \nB)Australia e Afeganistao \nC)Italia e Chade \nD)Brasil e Congo,A
+
+12,O que a palavra legend significa em portugues?,A)Legenda \nB)Conto \nC)Legendario \nD)Lenda,D
+
+13,Quais as duas datas que são comemoradas em novembro?,A)Independencia do Brasil e Dia da Bandeira \nB)Proclamacao da Republica e Dia Nacional da Consciencia Negra \nC)Dia do Medico e Dia de Sao Lucas \nD)Black Friday e Dia da arvore,B
+
+14,Em que periodo da pre-historia o fogo foi descoberto?,A)Neolitico \nB)Paleolitico \nC)Idade dos Metais \nD)Periodo da Pedra Polida,B
+
+15,Qual a montanha mais alta do Brasil?,A)Pico da Neblina \nB)Pico Parana \nC)Monte Roraima \nD)Pico da Bandeira,A
+
+16,Em qual local da Asia o portugues e lingua oficial?,A)Filipinas \nB)Mocambique \nC)Macau \nD)Portugal,C
+
+17,Qual destes paises e transcontinental?,A)Russia \nB)Filipinas \nC)Marrocos \nD)Groenlandia,A

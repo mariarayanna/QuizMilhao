@@ -3,8 +3,8 @@ from csv import writer
 import os
 
 def model_item(item, rank = False):
-    if(rank): 
-        return [item['id'],item['points']]
+    if(rank == True): 
+        return [item['id'],item['nome'],item['points']]
     elif(rank == False):
         return [item['id'], item['question'], item['alternatives'], item['letter']]
 

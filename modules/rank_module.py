@@ -1,7 +1,7 @@
 from csv_functions import *
 
 filePath = "./data/rank.csv"
-header_model = ['id','points']
+header_model = ['id','nome','points']
 
 def restart_index_ranks(ranks):
     index = 1
@@ -11,9 +11,8 @@ def restart_index_ranks(ranks):
     return ranks
 
 
-def save_rank(ranks,score):
-    ranks.append({'points': score})
-    ranks.sort(key=lambda x: str( x['points']), reverse=True)
+def save_rank(ranks,score, nome):
+    ranks.append({'nome': nome, 'points': score})  
     restart_index_ranks(ranks)
     updateCsv(filePath,ranks,header_model,True)
 
